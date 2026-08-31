@@ -3,7 +3,7 @@
 
   <!-- Animated Typing Tagline -->
   <a href="https://github.com/badalsharmaa">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0284C7&center=true&vCenter=true&width=550&lines=Full+Stack+Software+Developer;Building+Modern+%26+Scalable+Web+Apps;Passionate+About+Clean+Code+%26+Performance;Turning+Ideas+Into+Production+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0284C7&center=true&vCenter=true&width=580&lines=Full+Stack+Developer+%40+Hiraya+Digital;MERN+Stack+%26+TypeScript+Specialist;Building+Scalable+Web+Apps+%26+AI+Integrations;40%25+FCP+Performance+Optimization+Expert" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -16,13 +16,52 @@
 
 ---
 
-### About Me
+### Professional Snapshot
 
-- **Building:** High-performance, responsive full-stack web applications.
-- **Exploring:** Modern cloud architecture, microservices, and distributed systems.
-- **Focus:** Clean code, UI/UX polish, and developer tooling.
-- **Ask Me About:** React, Next.js, Node.js, TypeScript, Cloud & Database Design.
-- **Philosophy:** Obsessed over milliseconds in load times and smooth transitions.
+- **Current Role:** Full Stack Developer (L3) at **Hiraya Digital, LLC**, delivering 15+ concurrent international web applications.
+- **Core Focus:** Building high-performance web systems using **TypeScript, React, Next.js, Node.js, PHP, and MongoDB/MySQL**.
+- **Performance Engineering:** Reduced First Contentful Paint (FCP) by 40% and improved storefront speeds by 35% through asset optimization and clean architecture.
+- **AI & Integrations:** Integrating LLMs (Gemini API), custom CMS engines, and secure payment workflows (Stripe, PayPal).
+- **Credentials:** B.Tech in CSE (GLA University) | Google UI/UX Design Certified | 100+ LeetCode Solved.
+
+---
+
+### Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Kristoper — Global Import-Export Platform</h4>
+      <p>Full-stack international logistics and e-commerce platform with automated tracking and custom CMS.</p>
+      <ul>
+        <li>Integrated AI chatbot powered by <b>Gemini API</b> for logistics assistance.</li>
+        <li>Architected with end-to-end type safety using <b>TypeScript</b> & <b>MERN</b>.</li>
+      </ul>
+      <p>
+        <a href="https://kistoper.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-0284C7?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" />
+        </a>
+        <a href="https://github.com/badalsharmaa/kistoper" target="_blank">
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Honest-Fermont — Restaurant Platform</h4>
+      <p>Commercial full-stack ordering and reservation solution for US-based restaurant clients.</p>
+      <ul>
+        <li>Engineered custom menu and pricing engine in <b>PHP & MySQL</b>.</li>
+        <li>Built table-booking assistant and secure payment gateway integrations.</li>
+      </ul>
+      <p>
+        <a href="https://honest.hiraya.digital" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-0284C7?style=flat-square&logo=googlechrome&logoColor=white" alt="Live Demo" />
+        </a>
+        <img src="https://img.shields.io/badge/Stack-PHP_|_MySQL-blue?style=flat-square" alt="Stack" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -51,12 +90,12 @@
 
 #### Backend, Cloud & Databases
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,mongodb,postgres,mysql,redis,firebase,aws,gcp" alt="Backend & Cloud Stack" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,python,mongodb,mysql,postgres,redis,firebase,aws,gcp" alt="Backend & Cloud Stack" />
 </a>
 
 <br/>
 
-#### Tools & DevOps
+#### Tools & Platforms
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode,vercel" alt="Tools Stack" />
 </a>
