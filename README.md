@@ -26,45 +26,6 @@
 
 ---
 
-### Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>Kristoper — Global Import-Export Platform</h4>
-      <p>Full-stack international logistics and e-commerce platform with automated tracking and custom CMS.</p>
-      <ul>
-        <li>Integrated AI chatbot powered by <b>Gemini API</b> for logistics assistance.</li>
-        <li>Architected with end-to-end type safety using <b>TypeScript</b> & <b>MERN</b>.</li>
-      </ul>
-      <p>
-        <a href="https://kistoper.vercel.app" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-0284C7?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" />
-        </a>
-        <a href="https://github.com/badalsharmaa/kistoper" target="_blank">
-          <img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>Honest-Fermont — Restaurant Platform</h4>
-      <p>Commercial full-stack ordering and reservation solution for US-based restaurant clients.</p>
-      <ul>
-        <li>Engineered custom menu and pricing engine in <b>PHP & MySQL</b>.</li>
-        <li>Built table-booking assistant and secure payment gateway integrations.</li>
-      </ul>
-      <p>
-        <a href="https://honest.hiraya.digital" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-0284C7?style=flat-square&logo=googlechrome&logoColor=white" alt="Live Demo" />
-        </a>
-        <img src="https://img.shields.io/badge/Stack-PHP_|_MySQL-blue?style=flat-square" alt="Stack" />
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
 ### Contribution Activity
 
 <div align="center">
