@@ -1,6 +1,5 @@
 <div align="center">
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=Hey%20there,%20I'm%20Badal%20Sharma%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
+  <h1 align="center">Hey there, I'm Badal Sharma 👋</h1>
 
   <!-- Animated Typing Tagline -->
   <a href="https://github.com/badalsharmaa">
@@ -128,8 +127,3 @@
     <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
 </p>
-
-<!-- Footer Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=120&section=footer" width="100%" alt="Footer Banner" />
-</div>
