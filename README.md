@@ -115,17 +115,17 @@
 ### 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/badalsharmaa" target="_blank">
+  <a href="https://www.linkedin.com/in/badalsharmaa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:badalsharma.dev@gmail.com" target="_blank">
+  <a href="mailto:badalsharma2741@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://twitter.com/badalsharmaa" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+  <a href="https://leetcode.com/u/badalsharmaa/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="https://golden-banoffee-32f1db.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
