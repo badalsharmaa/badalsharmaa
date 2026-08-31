@@ -3,7 +3,7 @@
 
   <!-- Animated Typing Tagline -->
   <a href="https://github.com/badalsharmaa">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0284C7&center=true&vCenter=true&width=580&lines=Full+Stack+Developer+%40+Hiraya+Digital;MERN+Stack+%26+TypeScript+Specialist;Building+Scalable+Web+Apps+%26+AI+Integrations;40%25+FCP+Performance+Optimization+Expert" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0284C7&center=true&vCenter=true&width=580&lines=Full+Stack+Developer+%40+Hiraya+Digital;MERN+Stack+%26+TypeScript+Specialist;Building+Scalable+Web+Apps+%26+AI+Integrations;200%2B+LeetCode+Problems+Solved;40%25+FCP+Performance+Optimization+Expert" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -22,7 +22,7 @@
 - **Core Focus:** Building high-performance web systems using **TypeScript, React, Next.js, Node.js, PHP, and MongoDB/MySQL**.
 - **Performance Engineering:** Reduced First Contentful Paint (FCP) by 40% and improved storefront speeds by 35% through asset optimization and clean architecture.
 - **AI & Integrations:** Integrating LLMs (Gemini API), custom CMS engines, and secure payment workflows (Stripe, PayPal).
-- **Credentials:** B.Tech in CSE (GLA University) | Google UI/UX Design Certified | 100+ LeetCode Solved.
+- **Credentials:** B.Tech in CSE (GLA University) | Google UI/UX Design Certified | **200+ LeetCode Solved (Contest Rating: 1,620 • Top 21%)**.
 
 ---
 
@@ -100,6 +100,20 @@
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode,vercel" alt="Tools Stack" />
 </a>
 
+</div>
+
+---
+
+### Problem Solving & LeetCode Analytics
+
+<div align="center">
+  <a href="https://leetcode.com/u/badalsharmaa/" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/badalsharmaa?theme=dark&font=Fira%20Code&border=0" />
+      <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/badalsharmaa?theme=light&font=Fira%20Code&border=0" />
+      <img src="https://leetcard.jacoblin.cool/badalsharmaa?theme=light&font=Fira%20Code&border=0" alt="Badal Sharma's LeetCode Stats" width="85%" />
+    </picture>
+  </a>
 </div>
 
 ---
