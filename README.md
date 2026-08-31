@@ -13,11 +13,6 @@
     </a>
     <img src="https://komarev.com/ghpvc/?username=badalsharmaa&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
   </p>
-
-  <!-- Dynamic Trophies (Frameless & Clean) -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=badalsharmaa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-  </a>
 </div>
 
 ---
@@ -37,11 +32,7 @@
 ### 🎮 Contribution Activity
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/badalsharmaa/badalsharmaa/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/badalsharmaa/badalsharmaa/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/badalsharmaa/badalsharmaa/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/badalsharmaa/badalsharmaa/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
 </div>
 
 ---
@@ -79,14 +70,14 @@
   <tr>
     <td width="50%" align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=badalsharmaa&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=818cf8&text_color=94a3b8&bg_color=0f172a"
+        src="https://github-stats-extended.vercel.app/api?username=badalsharmaa&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github"
         alt="GitHub Stats"
         width="100%"
       />
     </td>
     <td width="50%" align="center">
       <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=badalsharmaa&theme=tokyonight&hide_border=true&stroke=38bdf8&ring=818cf8&fire=f43f5e&currStreakLabel=38bdf8&background=0f172a"
+        src="https://github-readme-streak-stats-eight.vercel.app/?user=badalsharmaa&theme=tokyonight&hide_border=true"
         alt="GitHub Streak"
         width="100%"
       />
@@ -95,17 +86,24 @@
   <tr>
     <td colspan="2" align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=badalsharmaa&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0f172a&langs_count=8"
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=badalsharmaa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
         alt="Top Languages"
         width="100%"
       />
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
+    <td width="50%" align="center">
       <img
-        src="https://github-readme-activity-graph.vercel.app/graph?username=badalsharmaa&theme=tokyo-night&hide_border=true&area=true&bg_color=0f172a&color=38bdf8&line=818cf8&point=38bdf8"
-        alt="Contribution Activity"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=badalsharmaa&theme=tokyonight"
+        alt="Languages by Repository"
+        width="100%"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=badalsharmaa&theme=tokyonight"
+        alt="Languages by Commit"
         width="100%"
       />
     </td>
